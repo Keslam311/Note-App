@@ -1,0 +1,8 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <text x="10" y="50" font-size="20" font-family="Arial" fill="black">
+        <tspan fill="red" opacity="0" id="word1">Hello</tspan>
+        <tspan fill="green" opacity="0" id="word2" dx="10">World!</tspan>
+        <animate xlink:href="#word1" attributeName="opacity" from="0" to="1" dur="2s" begin="0s" fill="freeze" />
+        <animate xlink:href="#word2" attributeName="opacity" from="0" to="1" dur="2s" begin="2s" fill="freeze" />
+    </text>
+</svg>
