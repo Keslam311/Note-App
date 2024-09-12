@@ -21,3 +21,6 @@ Note-taking app using Jetpack Compose with the following features:
 <img src="https://github.com/user-attachments/assets/042ae543-453d-4fdc-bcee-9d3997f03fa7" alt="" width="300" height="500">
 
 <img src="https://github.com/user-attachments/assets/7f8ff267-6b48-4dfa-b5bf-f8eb34c169fd" alt="" width="300" height="500">
+
+
+![Animated Text](animated-text.svg)
