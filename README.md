@@ -1,3 +1,4 @@
+
 ![Animated Text](animated-text.svg)
 
 Note-taking app using Jetpack Compose with the following features:            
