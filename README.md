@@ -2,10 +2,10 @@
 
 Note-taking app using Jetpack Compose with the following features:            
 ✅ MVVM Architecture for a clean, testable codebase        
-✅ Dagger Hilt for dependency injection
-✅ Room Database for local data storage
-✅ Dark and Light Mode switch 
-✅ Swipe to Delete notes for easy management
+✅ Dagger Hilt for dependency injection        
+✅ Room Database for local data storage        
+✅ Dark and Light Mode switch         
+✅ Swipe to Delete notes for easy management        
 ✅ A robust Repository Pattern for data 
 
 ![Screenshot_2024-09-12-12-42-20-14_abfbb4d274b843d1664af5fd34e8d972](https://github.com/user-attachments/assets/f0eb377e-5e94-4ee6-bc33-0588383548ed)
