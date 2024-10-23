@@ -1,6 +1,4 @@
-![Animated Text](animated-text.svg) 
-
- Note-taking app using Jetpack Compose with the following features:            
+# Note-taking app using Jetpack Compose with the following features:            
 ✅ MVVM Architecture for a clean, testable codebase        
 ✅ Dagger Hilt for dependency injection        
 ✅ Room Database for local data storage        
